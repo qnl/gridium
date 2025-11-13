@@ -1,7 +1,7 @@
 # gridium
 Data and code for the grid-state qubit manuscript
 
-# Analysis Code and Processed Data for “Intrinsically Protected Grid States in a Superconducting Qubit”
+# Numerical Code and Processed Data for “Intrinsically Protected Grid States in a Superconducting Qubit”
 
 This repository contains the numerical simulation code and processed datasets used in the manuscript:
 
